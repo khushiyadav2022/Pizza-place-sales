@@ -6,6 +6,9 @@ Analyzing customer traffic, order size and sales trends, and identifying bestsel
 **Problem**<br>
 How can we improve the profitability of our pizza business by analyzing customer traffic, order size and sales trends, and identifying bestsellers and opportunities for menu optimization and promotion?
 
+[Notebook](https://github.com/khushiyadav2022/Pizza-place-sales/blob/f3ac63cd86a5acbd124ba1e9172fcc2b84cc48d8/pizza_place_sales_Notebook.ipynb)<br>
+[Presentation](https://github.com/khushiyadav2022/Pizza-place-sales/blob/f3ac63cd86a5acbd124ba1e9172fcc2b84cc48d8/Pizza%20sales%20analysis%20presentation.pdf)<br>
+
 **Solution**<br>
 - Reviewed sales data to determine daily customer traffic and peak hours
 - Analyzed sales data to identify average pizzas per order and bestsellers
